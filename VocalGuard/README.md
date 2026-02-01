@@ -66,7 +66,7 @@ Before running VocalGuard, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shrutika-patil76/VocalGuard.git
+git clone https://github.com/Sakshi0313/VocalGuard.git
 cd VocalGuard
 ```
 
